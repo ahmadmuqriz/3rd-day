@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Speedo Distancioog
                 </div>
 
                 <div class="links">
